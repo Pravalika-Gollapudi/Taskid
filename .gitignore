@@ -33,3 +33,4 @@ build/
 .vscode/
 
 Oracle_JDK-22/
+node_modules/
